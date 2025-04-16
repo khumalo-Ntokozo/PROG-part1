@@ -10,7 +10,7 @@ class ChatBot
     // Display the ASCII art Logo of a virus
     public void ShowVirusAscii()
     {
-        Console.ForegroundColor = ConsoleColor.Red;
+        Console.ForegroundColor = ConsoleColor.DarkRed;
 
         string bugsArt = @"  
 ██████╗ ██╗   ██╗ ██████╗ ███████╗  
