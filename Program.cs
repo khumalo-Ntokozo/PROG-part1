@@ -53,7 +53,7 @@ class ChatBot
         }
     }
 
-    // ASCII banner
+    // ASCII banner logo
     public void ShowBanner()
     {
         Console.ForegroundColor = ConsoleColor.Blue;
