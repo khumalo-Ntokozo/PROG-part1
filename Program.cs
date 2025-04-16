@@ -36,7 +36,7 @@ class ChatBot
         Console.WriteLine();
     }
 
-    // The audio file path
+    // The audio file path for the chatbot
     public void PlayAudioGreeting()
     {
         string filePath = @"C:\Users\kntok\OneDrive\Desktop\PROG PART 1\PRog PART 1\audio\Welcome.wav"; 
